@@ -10,6 +10,6 @@
 
 ## Download
 [Download latest stable release here.](https://github.com/arm64nerd/FaithfulX/releases/latest).
-
+[Old download page](https://github.com/arm64nerd/FaithfulX/releases/).
 ## Credits
 + `Vattic, xMrVizzy and the original Faithful Team`
